@@ -57,7 +57,10 @@ https://pypi.org/project/control/
 The required Python libraries are necessary for the simulation, in any case check if you have the required libraries.
 
 ## Download the simulator
-
+Cloning the archives to GitHub
+```
+git clone 
+```
 
 # Structure to folders
 
