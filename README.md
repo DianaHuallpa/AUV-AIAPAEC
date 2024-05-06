@@ -59,7 +59,7 @@ The required Python libraries are necessary for the simulation, in any case chec
 ## Download the simulator
 Cloning the archives to GitHub
 ```
-git clone 
+git clone https://github.com/DianaHuallpa/AUV-AIAPAEC.git
 ```
 
 # Structure to folders
