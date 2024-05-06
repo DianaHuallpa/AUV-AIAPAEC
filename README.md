@@ -74,11 +74,11 @@ git clone https://github.com/DianaHuallpa/AUV-AIAPAEC.git
     ├── main.py  
 
 ## Instrucciones para ejecutar el simulador
-The simulator provides the modes of operation of the nonlinear, linearized model and the overdriven AUV control. To demonstrate the simulator operation, three cases will be considered:
+The simulator provides the modes of operation of the nonlinear model, the linearized and the AUV control. To demonstrate the operation of the simulator, the following steps will be considered:
 
-1. Thruster distance configuration (dp1, dp2 and dp3).
+1. thruster distance configuration (dp1, dp2 and dp3).
 
-2. Non Linear Model: for the visualization of the results the input signals are the forces applied by the thrusters in Newton (Tp1, Tp2, Tp).
+2. Non-linear model: for the visualization of the results the input signals are the forces applied by the thrusters in Newton (Tp1, Tp2, Tp).
 
 3. Linearized Model: Once the non-linear model of the AUV is obtained, the system is linearized with certain initial values (X,U).
 
@@ -99,7 +99,7 @@ Thanks to the Universidad Nacional de San Agustin de Arequipa.
 
 ## Running Package
 
-After you have installed the Python libraries and downloaded the AUV simulator package and placed it on your desktop you can launch it using the following commands:
+After installing the Python libraries and downloading the AUV-AIAPAEC simulator package, you can start it using the following commands:
 ```
 cd AUV-AIAPAEC/PyAUVsimulator
 python main.py
@@ -112,4 +112,4 @@ ls
 
 ## References
 * https://python-control.readthedocs.io/en/0.9.4/index.html
-* https://python-control.readthedocs.io/en/0.9.4/classes.html
+
