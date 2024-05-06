@@ -36,22 +36,18 @@ pip install scipy
 
 The following packages are installed in the following order:
 
-- slycot 0.5.4
+- slycot
 ```
-pip install slycot
+pip install slycot==0.5.4
 ```
-or 
-```
-conda install -c conda-forge slycot
-```
-https://pypi.org/project/slycot/
+https://pypi.org/project/slycot/0.5.4/
 
 
-- control  0.9.4
+- control
 ```
-pip install control
+pip install control==0.9.4
 ```
-https://pypi.org/project/control/
+https://pypi.org/project/control/0.9.4/
 
 
 The required Python libraries are necessary for the simulation, in any case check if you have the required libraries.
