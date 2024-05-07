@@ -18,7 +18,7 @@ Conda is an open-source package and environment management system that runs on W
 
 https://www.python.org/downloads/
 
-- Install the Anaconda 23.3.1
+- Install the Anaconda (conda 23.3.1)
 
 https://www.anaconda.com/download
 
