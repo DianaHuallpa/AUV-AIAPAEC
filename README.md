@@ -14,11 +14,11 @@ Conda is an open-source package and environment management system that runs on W
     Release:	22.04
     Codename:	jammy
 ```
-- Install Python
+- Install Python 3.10.9
 
 https://www.python.org/downloads/
 
-- Install the Anaconda 
+- Install the Anaconda 23.3.1
 
 https://www.anaconda.com/download
 
